@@ -51,6 +51,5 @@ O notebook importa TensorFlow/Keras, OpenCV, NumPy, scikit-learn e Matplotlib, a
 
 ## Próximos passos
 
-- Definir se a tarefa final será binária (por exemplo, com/sem fungo) ou multiclasse e padronizar pastas, rótulos, saída do modelo e inferência.
-- Corrigir e validar as métricas com exemplos conhecidos e uma matriz de confusão cuja ordem de classes esteja explícita.
-- Documentar os resultados experimentais após validação em um conjunto de teste independente.
+- Aumentar o dataset e retreinar o modelo para reduzir os falsos-negativos.
+- Documentar os resultados experimentais após validação em um conjunto de teste independente (in loco).
